@@ -69,7 +69,7 @@ def random_search(X_train, y_train, n_estimators=1000, n_iter=10, cv=5):
     
     return best_model
 
-model = random_search(X, y)
+model = random_search(X_train, y_train)
 
 
 

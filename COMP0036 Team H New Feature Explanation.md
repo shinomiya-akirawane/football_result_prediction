@@ -78,7 +78,7 @@ HomeTeam_HomeWinsRatio：当赛季主队的主场胜场占全部胜场占比
 
 AwayTeam_AwayWinsRatio：当赛季客队的客场胜场占全部胜场占比
 
-EFL：是否是英超比赛
+EPL：是否是英超比赛
 
 HomeTeam_CupGamesLastMonth；主队过去一个月几场杯赛	
 
